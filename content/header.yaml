@@ -1,0 +1,5 @@
+# List of links to be included in the page navbar
+# NOTE: Do not add a trailing slash to the link.
+#       Gatsby has a plugin which will remove that automatically.
+- text: "Home"
+  link: ""
